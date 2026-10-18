@@ -4,6 +4,5 @@
 - MyThirdTestAppSpringBoot — копия сервиса для ЛР №4 (порт 8084)
 - lab6 — ЛР №6
 - lab7 — ЛР №7
-- lab8 - ЛР №8
   
 Запуск ЛР №2–5: сначала MyThirdTestAppSpringBoot (8084), потом MySecondTestAppSpringBoot (8082).
